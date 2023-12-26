@@ -38,5 +38,11 @@ body {
 
 }
 section{
+  background-color: rgb(242, 237, 237) ;
+}
+.card-body{
   background-color: rgb(242, 237, 237);
+}
+.btn{
+  background-color: rgb(19, 44, 8) !important;
 }
